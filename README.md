@@ -1,4 +1,4 @@
-## Centos 7 + sshd
+## Centos 7 + supervisord + sshd
 
 ### Clone and build:
 
